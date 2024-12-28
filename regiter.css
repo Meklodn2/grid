@@ -1,0 +1,10 @@
+.register {
+    height: calc(100vh - 144px);
+}
+
+@media screen and (max-width:992px) {
+    .register {
+        height: 100%;
+    }
+
+} 

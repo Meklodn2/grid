@@ -13,3 +13,13 @@ height: calc(100% - 73px);
 height: 100%;
 }
 }
+.login {
+    height: calc(100vh - 144px);
+}
+
+@media screen and (max-width:992px) {
+    .login {
+        height: 100%;
+    }
+
+} 
